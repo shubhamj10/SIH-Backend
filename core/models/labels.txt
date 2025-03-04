@@ -1,0 +1,6 @@
+0 Aadhar
+1 Pan
+2 Invalid
+3 Gate Score Card
+4 Caste Certificate 
+5 10th

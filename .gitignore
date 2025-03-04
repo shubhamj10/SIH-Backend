@@ -1,0 +1,7 @@
+venv
+new
+.env
+
+core/uploads
+core/bulk/
+media/
